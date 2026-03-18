@@ -6,7 +6,7 @@ const WEBHOOK_URL = "https://hook.eu2.make.com/s0fln9fki3odgir6rb2myb4okp4mcqwc"
 const PRODUCTS = [
   {
     id: 1,
-    title: "Climatiseur Portable Powerful Cool",
+    title: "Climatiseur Portable",
     price: 5500,
     originalPrice: 7900,
     category: "ete",
@@ -17,7 +17,7 @@ const PRODUCTS = [
   },
   {
     id: 2,
-    title: "Robot Aspirateur Smart Clean Pro",
+    title: "Robot Aspirateur",
     price: 28000,
     originalPrice: 35000,
     category: "maison",
@@ -28,7 +28,7 @@ const PRODUCTS = [
   },
   {
     id: 3,
-    title: "Mini Mixeur Fresh-Go USB",
+    title: "Mini Mixeur",
     price: 2900,
     originalPrice: 4500,
     category: "ete",
