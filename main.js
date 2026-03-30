@@ -17,22 +17,22 @@ const PRODUCTS = [
   },
   {
     id: 2,
-    title: "Robot Aspirateur",
+    title: "Projecteur 2-Game",
     price: 28000,
     originalPrice: 35000,
     category: "maison",
-    image: "public/photos/robot.jpg",
+    image: "public/produit/Rentrée scolaire/Projector-2-Game-cnc.jpg",
     video: "public/produit/videos/Blue and Yellow Modern Business Service Promotion Mobile Video.mp4",
     rating: 4.8,
     description: "Le futur du nettoyage est ici. Ce robot 3-en-1 balaie, aspire et lave vos sols en toute autonomie. Navigation intelligente, capteurs d'obstacles et retour automatique à sa station de charge. Contrôlez-le depuis votre canapé."
   },
   {
     id: 3,
-    title: "Mini Mixeur",
+    title: "Creative Life PM",
     price: 2900,
     originalPrice: 4500,
     category: "ete",
-    image: "public/photos/mixeur.jpg",
+    image: "public/produit/Rentrée scolaire/Creative-Life-PM-cnc-1.jpg",
     video: "public/produit/videos/Blue and Yellow Modern Business Service Promotion Mobile Video.mp4",
     rating: 4.7,
     description: "Emportez vos vitamines partout ! Ce mixeur portable puissant vous permet de réaliser des smoothies, shakes et jus de fruits frais en quelques secondes. Rechargeable par USB, il est le compagnon idéal de vos sorties sportives."
